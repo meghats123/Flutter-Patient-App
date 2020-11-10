@@ -18,7 +18,7 @@ TextEditingController getDoctorname=TextEditingController();
       home: Scaffold(
         appBar: AppBar(
           title: Text("Patient App"),
-          backgroundColor: Colors.deepOrange,
+          backgroundColor: Colors.amber,
         ),
         body: Container(
           padding: EdgeInsets.all(10.0),
